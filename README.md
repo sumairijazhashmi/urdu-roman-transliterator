@@ -5,4 +5,4 @@ Developed a machine transliterator by implementing, training, and evaluating rec
 - The other files then contain the encoder decoder models for each bucket separately.
 - The PDF file contains an academic report of our project and goes over the theory, implementation, and results.
 
-I worked on this project with my colleague Naafey Aamer.
+I worked on this project with my colleague Naafey Aamer. This was a course project for a graduate level course on Natural Language Processing at LUMS, Pakistan.
